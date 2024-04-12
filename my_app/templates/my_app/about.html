@@ -1,0 +1,10 @@
+{% extends 'my_app/_base.html' %}
+
+{% block title %}About{% endblock %}
+
+{% block content %}
+    <h1>I like action movies</h1>
+    {% load static  %}
+    <img style="width:100px" src="{% static 'my_app/Chey_Brown-Blankson.jpg' %}" alt="About Me Picture">
+{% endblock %}
+
