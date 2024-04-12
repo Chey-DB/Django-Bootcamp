@@ -1,7 +1,7 @@
-asgiref @ file:///work/perseverance-python-buildout/croot/asgiref_1698866701569/work
-Django @ file:///work/perseverance-python-buildout/croot/django_1698884878321/work
+asgiref==3.8.1
+Django==5.0.4
 gunicorn==21.2.0
 packaging==24.0
 setuptools==68.2.2
-sqlparse @ file:///work/perseverance-python-buildout/croot/sqlparse_1698874574933/work
+sqlparse==0.4.4
 wheel==0.41.2
